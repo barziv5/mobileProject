@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/barziv5/mobileProject/issues"
   },
-  "homepage": "https://github.com/barziv5/mobileProject#readme"
+  "homepage": "https://github.com/barziv5/mobileProject#readme",
+  "dependencies": {
+    "angular": "^1.4.3",
+    "express": "^4.13.1",
+    "mongodb": "^2.0.39"
+  }
 }
