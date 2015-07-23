@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/barziv5/mobileProject#readme",
   "dependencies": {
-    "angular": "^1.4.3",
-    "express": "^4.13.1",
-    "mongodb": "^2.0.39"
+    "angular": "~1.4.3",
+    "express": "~4.4.4",
+    "mongodb": "~2.0.39"
   }
 }
